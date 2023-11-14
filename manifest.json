@@ -1,0 +1,12 @@
+{
+  "name": "Pre-tag class adder",
+  "version": "1.0",
+  "description": "Agrega una clase a todas las etiquetas <pre>.",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://*/*"],
+      "js": ["script.js"]
+    }
+  ]
+}
