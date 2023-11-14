@@ -7,6 +7,6 @@ Esta es una extensión simple para navegadores basados en Chromium que agrega la
 1. Descarga o clona este repositorio en tu máquina local.
 
    ```bash
-   git clone https://github.com/tuusuario/mi-extension.git
+   git clone [https://github.com/tuusuario/mi-extension.git](https://github.com/ayunierto/myChromeExtension.git)https://github.com/ayunierto/myChromeExtension.git
 
 2. Cargue la extensión en su navegador.
